@@ -4,6 +4,7 @@
 I am a passionate software developer with a keen interest in Emulators, Reverse Engineering, Decompilation, Home Labs, Sys Admin.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreicristianstroe/)
+[![LinkedIn](https://img.shields.io/badge/Steam-0077B5?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/yoshidaspecials/)
 
 ## 🛠️ Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
