@@ -15,8 +15,5 @@ I am a passionate software developer with a keen interest in Emulators, Reverse 
 ## 📂 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andreicristianstroe&repo=birthday-reminder)](https://github.com/andreicristianstroe/birthday-reminder)
 
-## 🏆 Achievements
-![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue)
-
 ## 📅 What's Next?
 - TBD
